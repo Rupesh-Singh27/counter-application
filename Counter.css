@@ -1,0 +1,30 @@
+button {
+    background-color: green;
+    font-size: 16px;
+    padding: 15px 30px;
+    color: white;
+    width: 100px;
+}
+.count{
+    font-size: 50px;
+    width:100%;
+    position: absolute;
+    top: 50%;
+    left:0;
+
+}
+.counter {
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.incdec {
+  display: inline-block;
+  /* border: 1px solid red; */
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+.reset{
+    background-color: red;
+    width: 200px;
+}
